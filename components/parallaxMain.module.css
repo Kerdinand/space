@@ -1,0 +1,10 @@
+.h1 {
+    font-family: 'Monoton', cursive;
+    color: rgb(192, 192, 192);
+    font-size: 7em;
+    text-align: center;
+}
+
+.about {
+    margin: 0 10%;
+}

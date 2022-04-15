@@ -1,11 +1,11 @@
 import styles from '../styles/Home.module.css';
 
-import Test from '../components/test';
+import ParallaxMain from '../components/parallaxMain';
 
 export default function Home() {
 	return (
 		<div className={styles.main}>
-			<Test></Test>
+			<ParallaxMain></ParallaxMain>
 		</div>
 	);
 }
